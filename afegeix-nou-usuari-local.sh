@@ -48,7 +48,7 @@ done
 
 	    	passwd -e ${1}
 
-
+#Mostra les dades
 	    	echo "Usuari: $1"
 
 	    	echo "Longitud Contrasenya: $contrasenya"
